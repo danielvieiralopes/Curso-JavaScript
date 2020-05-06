@@ -1,33 +1,20 @@
-/*function anuidade(valor, mes) {
-    let valor = 0
-    let mes = 0
 
-    while (mes < 12) {
-       
-        switch (mes) {
-            case 1:
-                valor = valor + (valor * 0.1)
-                return valor
-            case 2:
-                valor = valor + (valor * 0.1)
-                return valor
+function jurosCompostos (capitalInicial, taxa, tempo) {
+    return capitalInicial * (1 + taxa) ** tempo
+}
 
-        }
+console.log(jurosCompostos(50,10/100, 12))
+
+
+//correcao 
+
+/* function calcularValor(mes, valor){
+    if(mes > 0 && mes < 13) {
+        atraso = mes - 1
+        return (valor * ((1 + (5/100))**atraso)).toFixed(2)
+    } else {
+        return 'Mês inválido.'
     }
 }
 
-function 
-
-console.log(anuidade(50, 2)) */
-
-function anuidade (valor, mes){
-  let valor = 0
-  
-
-  for (let i = 0; i < mes; i++){
-    valor = valor + (valor * 0.1)
-
-    
-  }
-
-}
+console.log(calcularValor(4, 100))  */
