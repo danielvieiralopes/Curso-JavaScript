@@ -1,4 +1,4 @@
-function cedulas(valor) {
+/* function cedulas(valor) {
   
 
 
@@ -72,6 +72,7 @@ function resultado(nota1, nota2, nota3, nota4, nota5) {
 }
 
 cedulas(1959)
+*/
 
 //correcao 
 
@@ -130,23 +131,23 @@ function elaborarResultado(contador100, contador50, contador10, contador5, conta
     let resultado = ''
 
     if (contador100 > 0) {
-        resultado += `${contador100} nota(s) de R$ 100. `
+        resultado += `${contador100} nota(s) de R$100.`
     }
 
     if (contador50 > 0) {
-        resultado += `${contador50} nota(s) de R$ 50. `
+        resultado += `${contador50} nota(s) de R$50.`
     }
 
     if (contador10 > 0) {
-        resultado += `${contador10} nota(s) de R$ 10. `
+        resultado += `${contador10} nota(s) de R$10.`
     }
 
     if (contador5 > 0) {
-        resultado += `${contador5} nota(s) de R$ 5. `
+        resultado += `${contador5} nota(s) de R$5.`
     }
 
     if (contador1 > 0) {
-        resultado += `${contador1} nota(s) de R$ 1. `
+        resultado += `${contador1} nota(s) de R$1.`
     }
 
     return resultado
