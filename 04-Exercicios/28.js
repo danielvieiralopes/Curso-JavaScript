@@ -4,16 +4,17 @@ function parEimpar(){
     let par = 0
     
 
-    for (let i = 0; i <= vet.length; i++){
+    for (let i = 1; i <= vet.length; i++){
         if (vet[i] % 2 == 0){
-          return  par++
+            par++
         }else{
-           return impar++
+            impar++
         }
     }
     console.log(`${impar} numeros impar(es) e ${par} numeros pare(s)`)
 
 }
+
 
 parEimpar()
 
