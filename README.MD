@@ -6,7 +6,7 @@
                                   
                                           # DEV EM PRODUÇÃO
                                           
-                                 ![LOADING DEV](https://github.com/danielvieiralopes/Curso-JavaScript/blob/master/ladebalken-gif-1.gif)
+  ![LOADING DEV](https://github.com/danielvieiralopes/Curso-JavaScript/blob/master/ladebalken-gif-1.gif)
 
 
 Introdução Curso Desenvolvimento Web
