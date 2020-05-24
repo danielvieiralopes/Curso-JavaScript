@@ -4,9 +4,13 @@
 
                                   
                                   
-                                          # DEV EM PRODUÇÃO
+------------------------------------------------------ # DEV EM PRODUÇÃO ---------------------------------------------------------------
                                           
-  ![LOADING DEV](https://github.com/danielvieiralopes/Curso-JavaScript/blob/master/ladebalken-gif-1.gif)
+ -------------------------------------------------![LOADING DEV](https://github.com/danielvieiralopes/Curso-JavaScript/blob/master/ladebalken-gif-1.gif)--------------------------------------------------------
+ 
+
+
+![fullstack](https://github.com/danielvieiralopes/Curso-JavaScript/blob/master/jim-carrey-tecleando.gif)
 
 
 Introdução Curso Desenvolvimento Web
@@ -33,9 +37,9 @@ Projeto Monty Hall(Vue)    ||           Angular 9               ||         Banco
 Banco Não Relacional       ||           Express                 ||         Projeto Base de Conhecimento • Backend
 
 Projeto Base de Conhecimento • Frontend  ||   Publicando uma Aplicação VueJS na Amazon
-
-Conclusão Curso Desenvolvimento Web  ||   Gulp - Versão 3
-
+-
+Conclusão Curso Desenvolvimento Web  ||   Gulp - Versão 
+-
 
 
 
