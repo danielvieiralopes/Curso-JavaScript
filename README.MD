@@ -4,30 +4,30 @@
 
  Introdução Curso Desenvolvimento Web
  
-Configuração do Ambiente              Javascript: Fundamentos          Javascript: Estruturas de Controle
+Configuração do Ambiente  ( # -- )          Javascript: Fundamentos ||         Javascript: Estruturas de Controle
 
-Javascript: Função                    Javascript: Objeto               Javascript: Array
+Javascript: Função         ||           Javascript: Objeto      ||         Javascript: Array
 
-Node                                  ESNext                           Conceitos sobre Web
+Node                       ||           ESNext                  ||         Conceitos sobre Web
 
-HTML                                  CSS                              Integrando HTML, CSS e JS
+HTML                       ||           CSS                     ||         Integrando HTML, CSS e JS
 
-Ajax                                  Gulp                             Webpack
+Ajax                       ||           Gulp                    ||         Webpack
 
-jQuery                                Bootstrap                        Projeto Galeria (Bootstrap/jQuery/Webpack)
+jQuery                     ||           Bootstrap               ||         Projeto Galeria (Bootstrap/jQuery/Webpack)
 
-React                                 Frojeto Calculadora              Projeto Cadastro de Usuário
-
-VueJS                                 Projetos VueJS                   Projeto Calculadora
+React                      ||           Frojeto Calculadora     ||         Projeto Cadastro de Usuário
+ 
+VueJS                      ||           Projetos VueJS          ||         Projeto Calculadora
 (Vue)
 
-Projeto Monty Hall(Vue)               Angular 9                        Banco Relacional
+Projeto Monty Hall(Vue)    ||           Angular 9               ||         Banco Relacional
 
-Banco Não Relacional                  Express                          Projeto Base de Conhecimento • Backend
+Banco Não Relacional       ||           Express                 ||         Projeto Base de Conhecimento • Backend
 
-Projeto Base de Conhecimento • Frontend    Publicando uma Aplicação VueJS na Amazon
+Projeto Base de Conhecimento • Frontend  ||   Publicando uma Aplicação VueJS na Amazon
 
-                              Conclusão Curso Desenvolvimento Web || Gulp - Versão 3
+Conclusão Curso Desenvolvimento Web  ||   Gulp - Versão 3
 
 
 
