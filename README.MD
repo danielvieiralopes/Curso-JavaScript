@@ -2,7 +2,14 @@
 ### O curso de desenvolvimento Web, possui um pack 14 Cursos + Projetos trabalhando com:
 ### Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL
 
- Introdução Curso Desenvolvimento Web
+                                  
+                                  
+                                          # DEV EM PRODUÇÃO
+                                          
+                                 ![LOADING DEV](https://github.com/danielvieiralopes/Curso-JavaScript/blob/master/ladebalken-gif-1.gif)
+
+
+Introdução Curso Desenvolvimento Web
  
 Configuração do Ambiente   ||           Javascript: Fundamentos ||         Javascript: Estruturas de Controle
 
