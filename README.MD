@@ -1,85 +1,84 @@
-<h1 align="center">  Curso Web Moderno Completo com JavaScript 2020 + Projetos </h1>
+<h1 align="center">  Curso Web Moderno com JavaScript 2020 + Projetos </h1>
 
 <p align="center"> 
   <img src="https://github.com/danielvieiralopes/Curso-JavaScript/blob/master/jim-carrey-tecleando.gif"/>
  </p>
 
-<h2 align="center"> O curso de desenvolvimento Web, possui um pack 14 Cursos + Projetos trabalhando com</h2> 
-<h2 align="center"> Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL</h2> 
+<h3 align="center">Durante o curso sera adquirido skills em Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL </h3>  
 
-<h3 align="center"> Loading FullStack Dev </h3>
+<h3 align="center">FullStack Dev em andamento... </h3>
  <p align="center"> 
   <img src="https://github.com/danielvieiralopes/Curso-JavaScript/blob/master/giphy-img-1398669-20190116184608.gif"/>
  </p> 
-:ballot_box_with_check: Introdução Curso Desenvolvimento Web
+:heavy_check_mark: Introdução Curso Desenvolvimento Web
  
-:ballot_box_with_check: Configuração do Ambiente      
+:heavy_check_mark: Configuração do Ambiente      
 
-:ballot_box_with_check: Javascript: Fundamentos   
+:heavy_check_mark: Javascript: Fundamentos   
 
-:ballot_box_with_check: Javascript: Estruturas de Controle
+:heavy_check_mark: Javascript: Estruturas de Controle
 
-:ballot_box_with_check: Javascript: Função  
+:heavy_check_mark: Javascript: Função  
 
-:ballot_box_with_check: Javascript: Objeto  
+:heavy_check_mark: Javascript: Objeto  
 
-:ballot_box_with_check: Javascript: Array
+:heavy_check_mark: Javascript: Array
 
-:black_square_button: Node       
+:warning: Node       
 
-:black_square_button: ESNext     
+:warning: ESNext     
 
-:black_square_button: Conceitos sobre Web
+:warning: Conceitos sobre Web
 
-:black_square_button: HTML    
+:warning: HTML    
 
-:black_square_button: CSS      
+:warning: CSS      
 
-:black_square_button: Integrando HTML, CSS e JS
+:warning: Integrando HTML, CSS e JS
 
-:black_square_button: Ajax       
+:warning: Ajax       
 
-:black_square_button: Gulp        
+:warning: Gulp        
 
-:black_square_button: Webpack
+:warning: Webpack
 
-:black_square_button: jQuery      
+:warning: jQuery      
 
-:black_square_button: Bootstrap     
+:warning: Bootstrap     
 
-:black_square_button: Projeto Galeria (Bootstrap/jQuery/Webpack)
+:warning: Projeto Galeria (Bootstrap/jQuery/Webpack)
 
-:black_square_button: React          
+:warning: React          
 
-:black_square_button: Frojeto Calculadora  
+:warning: Frojeto Calculadora  
 
-:black_square_button: Projeto Cadastro de Usuário
+:warning: Projeto Cadastro de Usuário
  
-:black_square_button: VueJS            
+:warning: VueJS            
 
-:black_square_button: Projetos VueJS    
+:warning: Projetos VueJS    
 
-:black_square_button: Projeto Calculadora(Vue)
+:warning: Projeto Calculadora(Vue)
 
-:black_square_button: Projeto Monty Hall(Vue)    
+:warning: Projeto Monty Hall(Vue)    
 
-:black_square_button: Angular 9        
+:warning: Angular 9        
 
-:black_square_button: Banco Relacional
+:warning: Banco Relacional
 
-:black_square_button: Banco Não Relacional   
+:warning: Banco Não Relacional   
 
-:black_square_button: Express                 
+:warning: Express                 
 
-:black_square_button:  Projeto Base de Conhecimento • Backend
+:warning:  Projeto Base de Conhecimento • Backend
 
-:black_square_button: Projeto Base de Conhecimento • Frontend     
+:warning: Projeto Base de Conhecimento • Frontend     
 
-:black_square_button:  Publicando uma Aplicação VueJS na Amazon
+:warning:  Publicando uma Aplicação VueJS na Amazon
 
-:black_square_button: Conclusão Curso Desenvolvimento Web  :checkered_flag: :checkered_flag:       
+:warning:: Conclusão Curso Desenvolvimento Web  :checkered_flag: :checkered_flag:       
 
-:black_square_button:  Gulp - Versão 
+:warning:  Gulp - Versão 
 
 
 
