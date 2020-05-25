@@ -1,15 +1,14 @@
 <h1 align="center">Curso Web Moderno com JavaScript</h1>
+<h3 align="center">FullStack Dev em produção... </h3>
 
 <p align="center"> 
   <img src="https://github.com/danielvieiralopes/Curso-JavaScript/blob/master/jim-carrey-tecleando.gif"/>
  </p>
-
-<h3 align="center">O curso aborda, Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL </h3>  
-
-<h3 align="center">FullStack Dev em produção... </h3>
+ 
  <p align="center"><img src="https://github.com/danielvieiralopes/Curso-JavaScript/blob/master/giphy-img-1398669-20190116184608.gif"/>
  </p> 
  
+ ## Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL 
  
 :heavy_check_mark: Introdução Curso Desenvolvimento Web 
  
