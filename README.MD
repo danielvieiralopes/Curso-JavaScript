@@ -7,7 +7,7 @@
 
 ### O curso de desenvolvimento Web, possui um pack 14 Cursos + Projetos trabalhando com:
 ### Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL
-<h1 align="center"> Loading FullStack Dev </h1>
+<h2 align="center"> Loading FullStack Dev </h2>
  <p align="center"> 
   <img src="https://github.com/danielvieiralopes/Curso-JavaScript/blob/master/giphy-img-1398669-20190116184608.gif"/>
  </p> 
