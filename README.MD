@@ -5,9 +5,6 @@
   <img src="https://github.com/danielvieiralopes/Curso-JavaScript/blob/master/jim-carrey-tecleando.gif"/>
  </p>
  
- <p align="center"><img src="https://github.com/danielvieiralopes/Curso-JavaScript/blob/master/giphy-img-1398669-20190116184608.gif"/>
- </p> 
- 
  ## Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL 
  
 :heavy_check_mark: Introdução Curso Desenvolvimento Web 
