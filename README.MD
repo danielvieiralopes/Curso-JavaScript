@@ -9,79 +9,80 @@
 ### Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL
 
 
-<p align="center"> 
-  <img src="https://github.com/danielvieiralopes/Curso-JavaScript/blob/master/ladebalken-gif-1.gif"/>
- </p>
+ <p align="center"> 
+  <img src="https://github.com/danielvieiralopes/Curso-JavaScript/blob/master/giphy-img-1398669-20190116184608.gif"/>
+ </p> 
 
-<p align="center"> 
-Introdução Curso Desenvolvimento Web
+
+:ballot_box_with_check: Introdução Curso Desenvolvimento Web
  
-- [X] Configuração do Ambiente      
+:ballot_box_with_check: Configuração do Ambiente      
 
-- [X] Javascript: Fundamentos   
+:ballot_box_with_check: Javascript: Fundamentos   
 
-- [X] Javascript: Estruturas de Controle
+:ballot_box_with_check: Javascript: Estruturas de Controle
 
-- [X] Javascript: Função  
+:ballot_box_with_check: Javascript: Função  
 
-- [X] Javascript: Objeto  
+:ballot_box_with_check: Javascript: Objeto  
 
-- [X] Javascript: Array
+:ballot_box_with_check: Javascript: Array
 
-- [ ] Node       
+:black_square_button: Node       
 
-- [ ]  ESNext     
+:black_square_button: ESNext     
 
-- [ ] Conceitos sobre Web
+:black_square_button: Conceitos sobre Web
 
-- [ ] HTML    
+:black_square_button: HTML    
 
-- [ ] CSS      
+:black_square_button: CSS      
 
-- [ ] Integrando HTML, CSS e JS
+:black_square_button: Integrando HTML, CSS e JS
 
-- [ ] Ajax       
+:black_square_button: Ajax       
 
-- [ ] Gulp        
+:black_square_button: Gulp        
 
-- [ ] Webpack
+:black_square_button: Webpack
 
-- [ ] jQuery      
+:black_square_button: jQuery      
 
-- [ ] Bootstrap     
+:black_square_button: Bootstrap     
 
-- [ ] Projeto Galeria (Bootstrap/jQuery/Webpack)
+:black_square_button: Projeto Galeria (Bootstrap/jQuery/Webpack)
 
-- [ ] React          
+:black_square_button: React          
 
-- [ ] Frojeto Calculadora  
+:black_square_button: Frojeto Calculadora  
 
-- [ ] Projeto Cadastro de Usuário
+:black_square_button: Projeto Cadastro de Usuário
  
-- [ ] VueJS            
+:black_square_button: VueJS            
 
-- [ ] Projetos VueJS    
+:black_square_button: Projetos VueJS    
 
-- [ ] Projeto Calculadora(Vue)
+:black_square_button: Projeto Calculadora(Vue)
 
-- [ ] Projeto Monty Hall(Vue)      
-- [ ] Angular 9        
+:black_square_button: Projeto Monty Hall(Vue)    
 
-- [ ] Banco Relacional
+:black_square_button: Angular 9        
 
-- [ ] Banco Não Relacional     
-- [ ] Express                 
+:black_square_button: Banco Relacional
 
-- [ ]  Projeto Base de Conhecimento • Backend
+:black_square_button: Banco Não Relacional   
 
-- [ ] Projeto Base de Conhecimento • Frontend     
+:black_square_button: Express                 
 
-- [ ]  Publicando uma Aplicação VueJS na Amazon
+:black_square_button:  Projeto Base de Conhecimento • Backend
 
-- [ ] Conclusão Curso Desenvolvimento Web         
+:black_square_button: Projeto Base de Conhecimento • Frontend     
 
-- [ ]  Gulp - Versão </p>
+:black_square_button:  Publicando uma Aplicação VueJS na Amazon
 
+:black_square_button: Conclusão Curso Desenvolvimento Web  :checkered_flag: :checkered_flag:       
+
+:black_square_button:  Gulp - Versão 
 
 
 
