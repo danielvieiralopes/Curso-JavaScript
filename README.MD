@@ -1,16 +1,17 @@
 # Curso Web Moderno Completo com JavaScript 2020 + Projetos
+
+
+<p align="center"> 
+  <img src="https://github.com/danielvieiralopes/Curso-JavaScript/blob/master/jim-carrey-tecleando.gif"/>
+ </p>
+
 ### O curso de desenvolvimento Web, possui um pack 14 Cursos + Projetos trabalhando com:
 ### Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL
 
-                                  
-                                  
-_______________________________________________________ # _DEV EM PRODUÇÃO _______________________________________________________________
-                                          
- _________________________________________________ ![LOADING DEV](https://github.com/danielvieiralopes/Curso-JavaScript/blob/master/ladebalken-gif-1.gif)________________________________________________________
- 
 
-
-![fullstack](https://github.com/danielvieiralopes/Curso-JavaScript/blob/master/jim-carrey-tecleando.gif)
+<p align="center"> 
+  <img src="https://github.com/danielvieiralopes/Curso-JavaScript/blob/master/ladebalken-gif-1.gif"/>
+ </p>
 
 
 Introdução Curso Desenvolvimento Web
