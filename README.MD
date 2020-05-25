@@ -13,34 +13,75 @@
   <img src="https://github.com/danielvieiralopes/Curso-JavaScript/blob/master/ladebalken-gif-1.gif"/>
  </p>
 
-
+<p align="center"> 
 Introdução Curso Desenvolvimento Web
  
-Configuração do Ambiente   ||           Javascript: Fundamentos ||         Javascript: Estruturas de Controle
+- [X] Configuração do Ambiente      
 
-Javascript: Função         ||           Javascript: Objeto      ||         Javascript: Array
+- [X] Javascript: Fundamentos   
 
-Node                       ||           ESNext                  ||         Conceitos sobre Web
+- [X] Javascript: Estruturas de Controle
 
-HTML                       ||           CSS                     ||         Integrando HTML, CSS e JS
+- [X] Javascript: Função  
 
-Ajax                       ||           Gulp                    ||         Webpack
+- [X] Javascript: Objeto  
 
-jQuery                     ||           Bootstrap               ||         Projeto Galeria (Bootstrap/jQuery/Webpack)
+- [X] Javascript: Array
 
-React                      ||           Frojeto Calculadora     ||         Projeto Cadastro de Usuário
+- [ ] Node       
+
+- [ ]  ESNext     
+
+- [ ] Conceitos sobre Web
+
+- [ ] HTML    
+
+- [ ] CSS      
+
+- [ ] Integrando HTML, CSS e JS
+
+- [ ] Ajax       
+
+- [ ] Gulp        
+
+- [ ] Webpack
+
+- [ ] jQuery      
+
+- [ ] Bootstrap     
+
+- [ ] Projeto Galeria (Bootstrap/jQuery/Webpack)
+
+- [ ] React          
+
+- [ ] Frojeto Calculadora  
+
+- [ ] Projeto Cadastro de Usuário
  
-VueJS                      ||           Projetos VueJS          ||         Projeto Calculadora
-(Vue)
+- [ ] VueJS            
 
-Projeto Monty Hall(Vue)    ||           Angular 9               ||         Banco Relacional
+- [ ] Projetos VueJS    
 
-Banco Não Relacional       ||           Express                 ||         Projeto Base de Conhecimento • Backend
+- [ ] Projeto Calculadora(Vue)
 
-Projeto Base de Conhecimento • Frontend  ||   Publicando uma Aplicação VueJS na Amazon
--
-Conclusão Curso Desenvolvimento Web  ||   Gulp - Versão 
--
+- [ ] Projeto Monty Hall(Vue)      
+- [ ] Angular 9        
+
+- [ ] Banco Relacional
+
+- [ ] Banco Não Relacional     
+- [ ] Express                 
+
+- [ ]  Projeto Base de Conhecimento • Backend
+
+- [ ] Projeto Base de Conhecimento • Frontend     
+
+- [ ]  Publicando uma Aplicação VueJS na Amazon
+
+- [ ] Conclusão Curso Desenvolvimento Web         
+
+- [ ]  Gulp - Versão </p>
+
 
 
 
