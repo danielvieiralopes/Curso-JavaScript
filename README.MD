@@ -21,13 +21,13 @@
 
 :heavy_check_mark: Javascript: Array
 
-:warning: Node       
+:heavy_check_mark: Node       
 
-:warning: ESNext     
+:heavy_check_mark: ESNext     
 
-:warning: Conceitos sobre Web
+:heavy_check_mark:Conceitos sobre Web
 
-:warning: HTML    
+:heavy_check_mark: HTML    
 
 :warning: CSS      
 
